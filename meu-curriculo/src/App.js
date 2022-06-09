@@ -22,7 +22,7 @@ function App() {
       <p>
         <ProfileBio
           profileBio =
-            "Estudante de Engenharia de Software na Universidade Federal de Brasília (UnB), atualmente participando do processo Trainee da empresa júnior Orc'estra Gamificação."
+            "Estudante de Engenharia de Software na Universidade de Brasília (UnB), atualmente participando do processo Trainee da empresa júnior Orc'estra Gamificação."
         />
       </p>
 
