@@ -1,0 +1,11 @@
+#profile-pic-position {
+    padding-top: 3em;
+    text-align: center;
+}
+
+#profile-pic {
+    flex: auto;
+    border-radius: 50%;
+    width: 22em;
+    height: 22em;
+}

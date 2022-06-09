@@ -1,0 +1,11 @@
+#profile-name-position {
+    padding-top: 1em;
+    text-align: center;
+}
+
+#profile-name {
+    flex: auto;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #fff;
+}
