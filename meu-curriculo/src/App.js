@@ -1,9 +1,7 @@
 import React, { Fragment } from 'react';
 import './App.css';
 
-import ProfilePicture from './components/profile-pic';
-import ProfileName from './components/profile-name';
-import ProfileBio from './components/profile-bio';
+import Profile from './components/profile';
 
 function App() {
   return (
@@ -12,19 +10,7 @@ function App() {
         
       </header>
 
-      <div>
-        <ProfilePicture
-          imageSrc="https://avatars.githubusercontent.com/u/89209017?v=4"
-          imageAlt="Foto de perfil do meu currículo"
-        />
-        <ProfileName profileName="Marcus Martins" />
-      </div>
-      <p>
-        <ProfileBio
-          profileBio =
-            "Estudante de Engenharia de Software na Universidade de Brasília (UnB), atualmente participando do processo Trainee da empresa júnior Orc'estra Gamificação."
-        />
-      </p>
+      <Profile />
 
       <footer>
         
