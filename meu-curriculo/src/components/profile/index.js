@@ -14,12 +14,10 @@ function Profile() {
                 />
                 <ProfileName profileName="Marcus Martins" />
             </div>
-            <p>
-                <ProfileBio
-                    profileBio =
-                    "Estudante de Engenharia de Software na Universidade de Brasília (UnB), atualmente participando do processo Trainee da empresa júnior Orc'estra Gamificação."
-                />
-            </p>
+            <ProfileBio
+                profileBio =
+                "Estudante de Engenharia de Software na Universidade de Brasília (UnB), atualmente participando do processo Trainee da empresa júnior Orc'estra Gamificação."
+            />
         </Fragment>
     );
 }

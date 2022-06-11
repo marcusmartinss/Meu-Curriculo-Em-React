@@ -1,0 +1,30 @@
+.lang-text, .lang-image {
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 2rem;
+}
+
+.language-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.language-container > div {
+    flex: 1 1 auto;
+    margin: 10px;
+}
+
+.lang-image {
+    max-width: 3rem;
+    max-height: 3rem;
+    width: auto;
+    height: auto;
+}
+
+.lang-text {
+    color: #FFF;
+    font-size: 1.3rem;
+    font-style: italic;
+    padding-left: 0.7rem;
+}

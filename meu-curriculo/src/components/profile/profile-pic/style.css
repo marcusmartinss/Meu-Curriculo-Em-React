@@ -6,6 +6,9 @@
 #profile-pic {
     flex: auto;
     border-radius: 50%;
-    width: 22em;
-    height: 22em;
+    border-style: solid;
+    border-color: #FFF;
+    border-width: 0.3rem;
+    width: 16rem;
+    height: 16rem;
 }
